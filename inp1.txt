@@ -1,0 +1,13 @@
+createuser Martsiano gen
+createuser Shalom len
+changeuser Martsiano
+content
+watch 2
+y
+n
+changeuser Shalom
+watch 1
+y
+y
+n
+exit

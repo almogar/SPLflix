@@ -1,0 +1,50 @@
+{
+  "movies": [
+    {
+      "name" : "The Shawshank Redemption",
+      "length": 142,
+      "tags": ["Drama"
+      ]
+    },
+    {
+      "name" : "The Godfather",
+      "length": 175,
+      "tags": ["Drama",
+        "Crime"
+      ]
+    },
+    {
+      "name" : "The Dark Knight",
+      "length": 152,
+      "tags": ["Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "name" : "Pulp Fiction",
+      "length": 154,
+      "tags": ["Crime",
+        "Drama"
+      ]
+    }
+  ],
+  "tv_series":
+  [
+    {
+      "name": "Game Of Thrones",
+      "episode_length": 60,
+      "seasons": [10, 10, 10, 10],
+      "tags": ["Fantasy",
+        "Drama"]
+    },
+    {
+      "name": "How I Met Your Mother",
+      "episode_length": 22,
+      "seasons": [22, 22, 20, 24, 24, 24, 24, 24, 24, 24],
+      "tags": ["Comedy",
+        "Romantic"]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+watch 5
+y
+y
+y
+y
+n
+exit
+watch 1
+n
+watchhist
+exit

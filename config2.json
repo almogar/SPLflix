@@ -1,0 +1,48 @@
+{
+  "movies": [
+    {
+      "name" : "Scott Pilgrim vs. the World",
+      "length": 112,
+      "tags": ["Action", "Comedy", "Fantasy", "Romance"
+      ]
+    },
+    {
+      "name" : "Finding Nemo",
+      "length": 100,
+      "tags": ["Animation",
+               "Adventure","Family","Sea"
+      ]
+    },
+    {
+      "name" : "The Dark Knight",
+      "length": 152,
+      "tags": ["Action",
+               "Crime",
+               "Drama",
+               "Thriller"
+      ]
+    },
+    {
+      "name" : "Pulp Fiction",
+      "length": 154,
+      "tags": ["Crime",
+               "Drama"
+      ]
+    }
+  ],
+  "tv_series":
+  [
+    {
+      "name": "The End of the F***ing World ",
+      "episode_length": 25,
+      "seasons": [8, 8],
+      "tags": ["Comedy", "Crime", "Drama"]
+    },
+    {
+      "name": "Blue Planet II",
+      "episode_length": 45,
+      "seasons": [8],
+      "tags": ["Documentary", "Sea"]
+    }
+  ]
+}
